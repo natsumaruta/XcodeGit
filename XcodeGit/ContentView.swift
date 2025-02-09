@@ -11,8 +11,8 @@ struct ContentView: View {
     var body: some View {
         VStack {
             Image(systemName: "globe")
-                .imageScale(.medium)
-                .foregroundStyle(.green)
+                .imageScale(.large)
+                .foregroundStyle(.mint)
             Text("Hello, world!")
             Text("初めてのコミット")
             Text("2回目のコミット")
